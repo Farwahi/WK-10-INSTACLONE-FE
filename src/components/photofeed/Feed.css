@@ -1,0 +1,19 @@
+
+.feed {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.post {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.post img {
+  max-width: 100%;
+  height: auto;
+}
+
+
