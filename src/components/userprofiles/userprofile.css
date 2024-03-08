@@ -1,0 +1,23 @@
+
+.user-profile {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .user-profile img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .user-profile h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .user-profile p {
+    font-size: 1rem;
+    color: #888;
+  }
+  
